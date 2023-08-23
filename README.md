@@ -46,7 +46,7 @@ Graduated with CGPA 3.05
 Zaxiss, Behria Town Islamabad
 Jan(2023) – Present</br>
 Responsibilities:</br>
-- Working on the product based project. <a href="https://play.google.com/store/apps/details?id=com.onediamond.app">Project Link.</a><br></br>
+- Working on the product based project. <a href="https://play.google.com/store/apps/details?id=com.onediamond.app">Project Link.</a></br>
   - Currently leading development efforts for the mobile application version using Flutter.</br>
   - Spearheading the design, development, and deployment of Android and iOS applications, ensuring cross-platform compatibility.</br>
   - Collaborating on the One Diamond Marketing web app, actively implementing UI/UX designs using Angular.</br>
