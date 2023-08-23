@@ -44,14 +44,20 @@ Graduated with CGPA 3.05
 ## WORK EXPERIENCE 
 <h5>Junior Software Engineer</h5>
 Zaxiss, Behria Town Islamabad
-Jan(2023) – Present<br></br>
-Responsibilities:<br></br>
-- Working on the product based project. <a href="https://play.google.com/store/apps/details?id=com.onediamond.app">Project Link.</a><br></br>
-- Development, Deployment and management of Android and iOS applications usingcross platform (Flutter).
+Jan(2023) – Present</br>
+Responsibilities:</br>
+- Working on the product based project. [Project Link](https://play.google.com/store/apps/details?id=com.onediamond.app)</br>
+  - Currently leading development efforts for the mobile application version using Flutter.</br>
+  - Spearheading the design, development, and deployment of Android and iOS applications, ensuring cross-platform compatibility.</br>
+  - Collaborating on the One Diamond Marketing web app, actively implementing UI/UX designs using Angular.</br>
+  - Integrating APIs to enhance functionality and data exchange between frontend and backend systems.</br>
+  - Contributing to the continuous improvement of codebase quality and performance.</br>
+  - Working closely with the team to ensure seamless integration and smooth user experiences.</br>
+  
 <h5>Software Engineer Intern</h5>
 Zaxiss, Behria Town Islamabad</br>
-Nov(2022) – Jan(2023) <br></br>
-- Understanding the company environment and walk through on the all on goingprojects.<br></br>
+Nov(2022) – Jan(2023) </br>
+- Understanding the company environment and walk through on the all on goingprojects.</br>
 - Working on the skills flutter and angular.
 
 ## Career Goals
