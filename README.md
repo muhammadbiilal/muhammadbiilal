@@ -42,7 +42,7 @@ March(2017) - March(2021)
 Graduated with CGPA 3.05 
 
 ## WORK EXPERIENCE 
-<h6>Junior Software Engineer</h6>
+<h3>Junior Software Engineer</h3>
 Zaxiss, Behria Town Islamabad
 Jan(2023) – Present</br>
 Responsibilities:</br>
@@ -54,7 +54,7 @@ Responsibilities:</br>
   - Contributing to the continuous improvement of codebase quality and performance.</br>
   - Working closely with the team to ensure seamless integration and smooth user experiences.</br>
   
-<h6>Software Engineer Intern</h6>
+<h3>Software Engineer Intern</h3>
 Zaxiss, Behria Town Islamabad</br>
 Nov(2022) – Jan(2023) </br>
 - Understanding the company environment and walk through on the all on goingprojects.</br>
