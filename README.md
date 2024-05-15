@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **cs21.bilal@gmail.com**
 
-- <a href="https://app.daily.dev/cs21bilal"><img src="https://api.daily.dev/devcards/v2/tci3PeaEFNTHmPbXhs1po.png?type=wide&r=pew" width="652" alt="Muhammad Bilal's Dev Card"/></a>
+<a href="https://app.daily.dev/cs21bilal"><img src="https://api.daily.dev/devcards/v2/tci3PeaEFNTHmPbXhs1po.png?type=default&r=pew" width="356" alt="Muhammad Bilal's Dev Card"/></a>
 
 ## 👨‍💻 Connect with me
 <p>
