@@ -14,8 +14,10 @@
 
 - 📫 How to reach me **cs21.bilal@gmail.com**
 
-<a href="https://app.daily.dev/cs21bilal"><img src="https://api.daily.dev/devcards/v2/tci3PeaEFNTHmPbXhs1po.png?type=default&r=pew" width="356" alt="Muhammad Bilal's Dev Card"/></a>
-
+<!-- Add the Dev Card here -->
+<a href="https://app.daily.dev/cs21bilal">
+  <img src="https://api.daily.dev/devcards/v2/tci3PeaEFNTHmPbXhs1po.png?type=wide&r=pew" width="652" alt="Muhammad Bilal's Dev Card"/>
+</a>
 ## 👨‍💻 Connect with me
 <p>
   <a href="https://linkedin.com/in/muhammad-bilal-097/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
