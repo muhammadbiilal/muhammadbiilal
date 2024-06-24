@@ -74,11 +74,7 @@ I am passionate about creating innovative solutions to complex problems and am a
 
 
 ## 📈 &nbsp;Some Github Stats ##
-![Muhammad Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadbiilal&show_icons=true&theme=transparent)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadbiilal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-*   Showing additional stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadbiilal\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Muhammad Bilal's Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadbiilal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadbiilal&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbiilal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
