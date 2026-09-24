@@ -61,7 +61,4 @@
 
 ## 📈 GitHub Stats
 
-[![Muhammad Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadbiilal&layout=compact&theme=vision-friendly-dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbiilal&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadbiilal&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
