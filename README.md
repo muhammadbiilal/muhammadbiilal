@@ -32,7 +32,7 @@
 <img alt="TypeScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />&nbsp;
 <img alt="Dart" width="40" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />&nbsp;
 <img alt="JavaScript" width="40" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />&nbsp;
-<img alt="React" width="40" height="40" src="https://www.vectorlogo.zone/logos/react/react-icon.svg" />&nbsp;
+<img alt="React" width="40" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />&nbsp;
 <img alt="Supabase" width="40" height="40" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />&nbsp;
 <img alt="PostgreSQL" width="40" height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />&nbsp;
 <img alt="Firebase" width="40" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />&nbsp;
