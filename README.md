@@ -61,6 +61,18 @@
 - Live dispatch over Pusher Channels with a 45-second accept window; real-time nurse tracking via Firestore + Google Maps.
 - Stripe wallet, Firestore chat, KYC verification flow and FCM push notifications.
 
+## 🌐 Solo Builds
+
+**[dayroz.com](https://dayroz.com)** · Website & web app · Designed and built solo · Jul 2026 – Present
+- Angular 20 with server-side prerendering and hydration, per-route SEO (titles, canonical URLs, Open Graph, sitemap).
+- Hand-built design system with self-hosted variable fonts tuned to prevent layout shift.
+- Web app with 25+ everyday tools (to-dos, expenses, habits, reminders, prayer times, zakat, documents) on Supabase auth; Docker + nginx.
+
+**[zsymedia.org](https://www.zsymedia.org)** · Website & ops dashboard · Designed and built solo · Jan 2026 – Present
+- Full rebuild of a creative agency's site: Angular 21, every route prerendered for SEO, auto-deployed to Vercel with 301 redirects for legacy URLs.
+- Internal ops dashboard for clients, projects, pipeline, invoices, payments, finance, hiring, outreach and reports.
+- Supabase Postgres with row-level security and 50 versioned SQL migrations; Playwright end-to-end tests with axe accessibility checks, plus Vitest.
+
 ## 🎓 Education
 
 **BS Computer Science** — Federal Urdu University of Arts, Science & Technology, Islamabad · 2017 – 2021
