@@ -12,7 +12,7 @@
 
 - 🏢 Founder & Engineer at **[Dayroz Technologies](https://dayroz.com)**, Islamabad — a software studio building its own products and delivering client web/mobile platforms.
 - 🛠️ Building **Dayroz**, a daily-life utility app with 60+ tools in 16 languages, and **Bricksworth**, a construction ledger app.
-- 💼 Frontend Developer at **Zaxiss** since Jan 2023, leading Flutter mobile and Angular web development.
+- 💼 Frontend & Mobile Developer at **[Zaxiss](https://zaxiss.com)** (a [Trillo Inc.](https://trillo.ai) company), Nov 2022 – Oct 2026, solo-building and leading production Flutter/Angular apps for enterprise clients.
 - 🌱 4+ years of experience across Angular, Flutter, TypeScript, and Supabase/PostgreSQL backends.
 - 📫 Reach me at **cs21.bilal@gmail.com**
 
@@ -44,16 +44,13 @@
 
 **Founder & Engineer** — Dayroz Technologies, Islamabad · 2024 – Present
 - Founded a software studio building its own products: Dayroz (daily-life app, 60+ tools, 16 languages) and Bricksworth (construction ledger).
-- Delivered client web platforms on Angular 20 and Supabase, including the ZSY Media studio operations platform and website.
-- Designed and built launch sites for Bunyad and Falak Air Ripple, plus the dayroz.com company site with SSR and prerendering.
+- Delivered client web platforms on Angular 20 and Supabase, including the [ZSY Media](https://www.zsymedia.org) studio operations platform and website.
+- Designed and built launch sites for Bunyad and Falak Air Ripple, plus the [dayroz.com](https://dayroz.com) company site with SSR and prerendering.
 
-**Frontend Developer** — Zaxiss, Islamabad · Jan 2023 – Present
-- Lead development for mobile (Flutter) and web (Angular) applications.
-- Spearheaded design and deployment of Android/iOS apps, including published titles like Taaluf.
-- Integrated Google Maps and other APIs; collaborated with backend and QA teams for smooth delivery.
-
-**Software Engineer Intern** — Zaxiss, Islamabad · Nov 2022 – Jan 2023
-- Ramped up on Flutter and Angular while working across the team's ongoing projects.
+**Frontend & Mobile Developer** — [Zaxiss](https://zaxiss.com) ([Trillo Inc.](https://trillo.ai)), Islamabad · Nov 2022 – Oct 2026
+- Solo-built and served as project lead on 10+ production Flutter and Angular apps for enterprise clients under NDA, spanning logistics/transport management, healthcare, retail operations, business intelligence, and workforce management.
+- Owned delivery end-to-end — client meetings, requirements gathering, and pairing native mobile apps with their companion web consoles/admin panels.
+- Integrated REST APIs, Google Maps, and real-time features across cross-platform Flutter and Angular codebases; used Git and Jira for version control and agile delivery.
 
 ## 🎓 Education
 
