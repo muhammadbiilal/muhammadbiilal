@@ -56,7 +56,7 @@
 - Owned delivery end-to-end — client meetings, requirements gathering, and pairing native mobile apps with their companion web consoles/admin panels.
 - Integrated REST APIs, Google Maps, and real-time features across cross-platform Flutter and Angular codebases; used Git and Jira for version control and agile delivery.
 
-**Freelance Flutter Developer** — Nephcare (home-nursing marketplace), Remote · May 2023 – May 2024
+**Flutter Developer (Part-time)** — Nephcare (home-nursing marketplace), Remote · May 2023 – May 2024
 - Built the patient and nurse apps with a small independent team (2–3 developers).
 - Live dispatch over Pusher Channels with a 45-second accept window; real-time nurse tracking via Firestore + Google Maps.
 - Stripe wallet, Firestore chat, KYC verification flow and FCM push notifications.
