@@ -79,4 +79,4 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadbiilal&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadbiilal&theme=vision-friendly-dark&hide_border=true&timezone=Asia/Karachi)](https://git.io/streak-stats)
